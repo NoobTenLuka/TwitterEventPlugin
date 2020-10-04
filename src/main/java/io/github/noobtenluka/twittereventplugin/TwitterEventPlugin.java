@@ -3,11 +3,10 @@ package io.github.noobtenluka.twittereventplugin;
 import io.github.noobtenluka.twittereventplugin.listeners.PlayerJoin;
 import io.github.noobtenluka.twittereventplugin.listeners.PlayerQuit;
 import org.bukkit.Bukkit;
-import org.bukkit.event.Listener;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class TwitterEventPlugin extends JavaPlugin implements Listener {
+public class TwitterEventPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("onEnable is called!");

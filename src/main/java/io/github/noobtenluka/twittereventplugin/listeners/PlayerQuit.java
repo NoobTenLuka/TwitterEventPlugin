@@ -3,7 +3,6 @@ package io.github.noobtenluka.twittereventplugin.listeners;
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 import twitter4j.Status;
 import twitter4j.Twitter;
