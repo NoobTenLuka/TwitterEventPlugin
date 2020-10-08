@@ -1,3 +1,7 @@
 name: TwitterEventPlugin
 version: 1.0
 main: io.github.noobtenluka.twittereventplugin.TwitterEventPlugin
+
+commands:
+  tweet:
+    description: This command lets you tweet on the official twitter account of this server.
