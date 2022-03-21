@@ -14,6 +14,6 @@ This Project is a little side project of mine. It's a Minecraft Plugin that uses
 - [Windows] Replace the start.bat with the example.start.bat found in this repository
 - [Linux] Replace the start.sh with the example.start.sh found in this repository 
     and run `chmod +x start.sh`
-- Edit this copied file to insert you available RAM and the Twitter Dev Configuration. 
-    More information about the twitter configuration can be found [here](http://twitter4j.org/en/configuration.html)
+- Edit this copied file to insert your available RAM and the Twitter Dev Configuration. 
+    More information about the Twitter configuration can be found [here](http://twitter4j.org/en/configuration.html)
 - Drop the self-compiled or released jar file into the plugins folder of your new server
